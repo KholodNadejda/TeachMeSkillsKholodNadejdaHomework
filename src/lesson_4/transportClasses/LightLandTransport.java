@@ -1,6 +1,6 @@
-package lesson4.transportClasses;
+package lesson_4.transportClasses;
 
-import lesson4.abstractClasses.LandTransport;
+import lesson_4.abstractClasses.LandTransport;
 
 import java.util.Scanner;
 

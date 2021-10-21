@@ -1,9 +1,9 @@
-package lesson4.application;
+package lesson_4.application;
 
-import lesson4.transportClasses.CivilAirTransport;
-import lesson4.transportClasses.FreightLandTransport;
-import lesson4.transportClasses.LightLandTransport;
-import lesson4.transportClasses.MilitaryAirTransport;
+import lesson_4.transportClasses.CivilAirTransport;
+import lesson_4.transportClasses.FreightLandTransport;
+import lesson_4.transportClasses.LightLandTransport;
+import lesson_4.transportClasses.MilitaryAirTransport;
 
 public class Lesson4 {
     public static void main(String[] args) {

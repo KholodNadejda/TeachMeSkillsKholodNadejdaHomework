@@ -1,6 +1,6 @@
-package lesson4.transportClasses;
+package lesson_4.transportClasses;
 
-import lesson4.abstractClasses.AirTransport;
+import lesson_4.abstractClasses.AirTransport;
 import java.util.Scanner;
 
 public class CivilAirTransport extends AirTransport {

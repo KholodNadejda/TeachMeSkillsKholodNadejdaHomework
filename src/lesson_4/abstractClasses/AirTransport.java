@@ -1,4 +1,4 @@
-package lesson4.abstractClasses;
+package lesson_4.abstractClasses;
 
 public class AirTransport extends Transport {
     public double wingspan;
